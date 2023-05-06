@@ -1,0 +1,3 @@
+apiKey='1potWVk0YhasM9xFdQiRDx8r8gdcXJXbQLaiq6wzFJRKzNR7VQmtMJSebLoxOP2n'
+secret='E9CFndo0EUoSmQv2uAnEpF0dGnzSihAoDN71R47QtYh7kUdS2nFMATaVPxnNLS2c'
+tradingview_pass='Bi123'

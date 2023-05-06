@@ -1,0 +1,11 @@
+{
+  "passphrase":"Bi123",
+  "ticker": "{{ticker}}",
+  "side": "{{side}}",
+  "leverage":"{{leverage}}",
+  "stoploss": "{{stoploss}}",
+  "takeprofit": "{{target1}}",
+  "cost": "{{cost}}"
+}
+
+
